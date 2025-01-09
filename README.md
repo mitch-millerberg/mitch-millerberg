@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mitch-millerberg
-- follow what I'm doing at the link below.
+- follow what I'm doing at the link.
   https://mitch-millerberg.github.io/
 
 
